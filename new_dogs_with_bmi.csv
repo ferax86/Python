@@ -1,0 +1,9 @@
+;Name;Breed;Color;Height(cm);Weight(kg);DateofBirth;sexes;bmi
+0;Bella;Labrador;Brown;56.0;25.0;2013-07-01;F;79.71938775510203
+1;Charlie;Poodle;Black;43.0;23.0;2016-09-16;M;124.39156300703084
+2;Lucy;ChowChow;Brown;46.0;22.0;2014-08-25;F;103.96975425330812
+3;Cooper;Schnauzer;Gray;49.0;17.0;2011-12-11;M;70.80383173677635
+4;Max;Labrador;Black;59.0;29.0;2017-01-20;M;83.30939385234129
+5;Stella;Chihuahua;Tan;18.0;2.0;2015-04-20;F;61.7283950617284
+6;Bernie;St.Bernard;White;77.0;74.0;2018-02-27;M;124.81025468038456
+7;Bernie;St.Bernard;White;;;2018-02-28;M;
